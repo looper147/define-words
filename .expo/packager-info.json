@@ -1,0 +1,8 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://sw-8u9.anonymous.dict-tool.exp.direct",
+  "packagerNgrokUrl": "https://sw-8u9.anonymous.dict-tool.exp.direct",
+  "ngrokPid": 14335,
+  "webpackServerPort": 19006
+}
